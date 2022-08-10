@@ -44,9 +44,9 @@ hr {
 	margin-bottom: 30px;
 }
 
-.fire-skills > .skill-card:first-child {
+/* .fire-skills > .skill-card:first-child {
 	margin-right: 30px;
-}
+} */
 
 .skill-card {
 	max-width: 400px;
@@ -55,6 +55,7 @@ hr {
 	border-radius: 5px;
 	/* box-shadow: 0 0 5px black; */
 	position: relative;
+	margin: 15px;
 }
 /* 
 .skill-card:not(:last-child) {
